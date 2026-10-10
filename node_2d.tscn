@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://bcjaik4j2j27h"]
+
+[node name="Node2D" type="Node2D" unique_id=200626467]
+
+[node name="player" type="CharacterBody2D" parent="." unique_id=783925319]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="player" unique_id=361547487]
