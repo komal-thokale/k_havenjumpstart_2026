@@ -6,4 +6,4 @@
 metadata/_edit_vertical_guides_ = [145.0]
 
 [node name="LevelRoot" parent="." unique_id=823065213 instance=ExtResource("2_0xm2m")]
-position = Vector2(-3, 1)
+position = Vector2(2, -1)
