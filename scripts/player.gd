@@ -43,6 +43,7 @@ func _physics_process(delta):
 	move_and_slide()
 
 
-
+func die()-> void: 
+	animated_sprite_2d.animation = "dying"
 		
 		

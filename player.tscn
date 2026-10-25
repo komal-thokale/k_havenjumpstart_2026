@@ -197,7 +197,7 @@ animations = [{
 "texture": ExtResource("3_2hs0m")
 }],
 "loop": 1,
-"name": &"jump",
+"name": &"jumping",
 "speed": 20.0
 }, {
 "frames": [{
@@ -238,7 +238,7 @@ animations = [{
 "texture": SubResource("AtlasTexture_khis8")
 }],
 "loop": 1,
-"name": &"run",
+"name": &"running",
 "speed": 20.0
 }]
 
@@ -259,7 +259,7 @@ texture_filter = 1
 position = Vector2(37.125, 25)
 scale = Vector2(1.2421876, 1.1249999)
 sprite_frames = SubResource("SpriteFrames_qp2i3")
-animation = &"idle"
+animation = &"running"
 autoplay = "idle"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1417856890]

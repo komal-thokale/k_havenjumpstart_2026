@@ -192,5 +192,5 @@ position = Vector2(-2.0000038, 131.66667)
 [node name="snail" parent="enemies" unique_id=1638396668 instance=ExtResource("4_ua5ty")]
 position = Vector2(190.33334, 179.33334)
 
-[node name="snail2" parent="enemies/snail" unique_id=1856090407 instance=ExtResource("4_ua5ty")]
-position = Vector2(100.99997, -0.3333435)
+[node name="snail2" parent="enemies" unique_id=1856090407 instance=ExtResource("4_ua5ty")]
+position = Vector2(291.3333, 179)
